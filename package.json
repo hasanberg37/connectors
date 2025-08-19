@@ -1,6 +1,6 @@
 {
   "name": "connectors",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "Connect your agent to the apps you already use - with or without Zapier.",
   "main": "src/index.ts",
   "scripts": {
